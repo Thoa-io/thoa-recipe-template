@@ -1,8 +1,8 @@
 ---
-# Welcome to the THOA Cookbook Template!
-# This file is a starting point for creating a new THOA cookbook recipe.
+# Welcome to the THOA Recipe Template!
+# This file is a starting point for creating a new THOA recipe.
 #
-# This template defines the standard structure for all THOA cookbook recipes.
+# This template defines the standard structure for all THOA recipes.
 # Please complete each section with your workflow-specific content.
 #
 # - Title
@@ -25,9 +25,9 @@
 # - Final Analysis / Results / Interpretation:
 #   Explain what the results mean and how they should be interpreted.
 
-title: Cookbook Template
-description: A starter template for creating new THOA cookbooks.
-image: /cookbook-images/template.jpg
+title: recipe Template
+description: A starter template for creating new THOA recipes.
+image: /recipe-images/template.jpg
 
 # Please start by filling out the title and description
 # and by adding a representative image.
